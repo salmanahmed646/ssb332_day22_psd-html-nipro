@@ -1,0 +1,781 @@
+/* Custom Media Start */
+/* Extra Extra Small */
+@media (max-width: 419.98px) {
+  /* Slider-Section Start */
+  /* CAption Start */
+  .custom_img img {
+    height: 250px;
+  }
+  .c_c_custom {
+    width: 100%;
+    height: 89%;
+    left: 0;
+    right: 0;
+    padding: 5px;
+  }
+  .c_c_custom h1 {
+    font-size: 29px;
+  }
+  .c_c_custom p {
+    margin: 2px 0;
+  }
+  /* CAption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+  }
+  .default-btn button {
+    width: 130px;
+    height: 30px;
+    font-size: 14px;
+  }
+  .default-btn button i {
+    left: 2%;
+  }
+  /* Button ENd */
+  /* Prev-Next Start */
+  .control_prev_c {
+    left: 2%;
+  }
+  .control_next_c {
+    left: 29.2%;
+  }
+  /* Prev-Next End */
+  /* Slider-Section End */
+  /* Service-Section Strat */
+  .service_title h1 {
+    margin: 30px 0 40px;
+  }
+  .service_title p {
+    margin-bottom: 55px;
+    line-height: 26px;
+  }
+  .service_item {
+    margin: 0 0 55px;
+    padding: 10px 5px;
+  }
+  .service_icon {
+    top: -31px;
+  }
+  .service_content p {
+    line-height: 26px;
+  }
+  .service_more {
+    margin-bottom: 20px;
+  }
+  /* Service-Section End */
+
+  /* About-Section Start */
+  .about_content {
+    text-align: center;
+  }
+  .service_title h1 {
+    margin: 35px 0 30px;
+  }
+  .service_title p {
+    margin-bottom: 40px;
+  }
+  .service_btn button {
+    margin-top: 3px;
+    width: 150px;
+    height: 40px;
+  }
+  /* About-Section End */
+  /* Workwith-Section Start */
+  .work_title .service_title {
+    margin-bottom: 30px;
+  }
+  .work_title .service_title h1 {
+    font-size: 25px;
+  }
+  .worker {
+    padding: 0 0 25px !important;
+  }
+
+  .worker_margin:nth-child(2n + 2) {
+    margin-bottom: 50px !important;
+    padding-right: 0 !important;
+  }
+  /* Workwith-Section End */
+  /* BEst-Pricing-Section Start */
+  .best_pricing {
+    margin-bottom: 50px;
+  }
+  .Pricing_title .service_title {
+    margin-bottom: 60px;
+  }
+  .pricing_item {
+    margin-bottom: 50px;
+  }
+  .pricing_margin_col {
+    margin-bottom: 0 !important;
+  }
+  .worker .worker_info {
+    background-color: #fff;
+    padding: 20px 0 20px 0;
+    text-align: center;
+  }
+  /* Best-Pricing-Section End */
+  /* template-Section Start */
+  .col_custom_template {
+    justify-content: center;
+  }
+  .col_custom .template_btn .service_btn {
+    text-align: center !important;
+    margin-top: 30px;
+  }
+  /* template-Section End */
+  /* Footer-Section Start */
+  .footer_social ul {
+    margin-bottom: 50px;
+    padding-left: 0 !important;
+  }
+  .footer_social ul li {
+    margin-right: 5px !important;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .footer-md-margin ul {
+    padding-left: 0 !important;
+  }
+  .footer-right ul li a {
+    padding: 0 !important;
+    font-size: 14px;
+  }
+  .footer-right ul li a:last-child {
+    padding-right: 0 !important;
+  }
+  /* Footer-Section End */
+}
+/* Extra Small  */
+@media (min-width: 420px) and (max-width: 575.98px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 14.6%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .custom_img img {
+    height: 235px;
+  }
+  .c_c_custom {
+    padding: 15px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    height: 85%;
+  }
+  .c_c_custom h1 {
+    font-size: 30px;
+  }
+  .c_c_custom p {
+    margin: 5px 0;
+    line-height: 20px;
+  }
+  .font_p {
+    font-size: 14px;
+  }
+  /* Caption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+    position: relative;
+    left: -5%;
+  }
+  .default-btn button {
+    width: 140px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .default-btn button i {
+    left: 4%;
+  }
+  /* Button End */
+  /* Prev-Next Start */
+  .control_prev_c {
+    left: 4%;
+  }
+  .control_next_c {
+    left: 22.6%;
+  }
+  /* Prev-Next End */
+  /* Service-Section Start */
+  /* Service-item start */
+  .service_title h1 {
+    margin: 30px 0 35px !important;
+  }
+  .service_title p {
+    margin-bottom: 70px;
+    line-height: 26px;
+  }
+  .service_item {
+    margin: 0 0 70px;
+    padding: 10px 5px;
+  }
+  .service_icon {
+    top: -31px;
+  }
+  .service_more {
+    margin-bottom: 25px;
+  }
+  /* Service-item End */
+  /* Service-Section End */
+
+  /* About-Section Start */
+  .about_content {
+    text-align: center;
+  }
+  .service_title p {
+    margin-bottom: 50px;
+  }
+  /* About-Section End */
+  /* Workwith-us start */
+  .work_title .service_title {
+    margin-bottom: 60px;
+  }
+  .worker {
+    padding: 0 0 25px !important;
+  }
+
+  .worker_margin:nth-child(2n + 2) {
+    margin-bottom: 50px !important;
+    padding-right: 0 !important;
+  }
+  /* Workwith-us End */
+  /* BEst-Pricing-Section Start */
+  .Pricing_title .service_title {
+    margin-bottom: 60px;
+  }
+  .pricing_item {
+    margin-bottom: 50px;
+  }
+  .pricing_margin_col {
+    margin-bottom: 0 !important;
+  }
+  .worker .worker_info {
+    background-color: #fff;
+    padding: 20px 0 20px 0;
+    text-align: center;
+  }
+  /* Best-Pricing-Section End */
+  /* template-Section Start */
+  .col_custom_template {
+    justify-content: center;
+  }
+  .col_custom .template_btn .service_btn {
+    text-align: center !important;
+    margin-top: 30px;
+  }
+  /* template-Section End */
+  /* Contact-Section Start */
+  .contact_us h1 {
+    width: 220px;
+  }
+  /* Contact-Section End */
+  /* Footer-Section Start */
+  .footer_social ul {
+    margin-bottom: 55px;
+  }
+  .footer_social ul li {
+    margin-right: 8px !important;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+  }
+
+  .footer-md-margin ul {
+    padding-left: 0 !important;
+  }
+  .footer-right ul li a {
+    padding: 0px 5px;
+  }
+  .footer-right ul li a:last-child {
+    padding-right: 0 !important;
+  }
+
+  /* Footer-Section End */
+}
+/* Custom Media End */
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* Header-Start */
+  .menu {
+    margin-top: 10px;
+  }
+  .menu ul li a {
+    padding: 6px 0 !important;
+  }
+  /* Search-Start */
+  .search_menu[data-bs-popper] {
+    left: -10px;
+  }
+  .btn_padding {
+    padding: 0;
+  }
+  /* Search-End */
+  /* Header-End */
+
+  /* About-Section Start */
+  .about_section {
+    margin-bottom: 50px;
+  }
+  /* About-Section End */
+  /* Recent-Work Start */
+  .recent-work {
+    padding-bottom: 50px;
+  }
+  .custom_navpill {
+    margin-top: 0 !important;
+  }
+  /* Recent-Work End */
+
+  /* WhyChoose-Start */
+  .choose_mt {
+    margin-top: 60px;
+  }
+  .choose_title .service_title h1 {
+    margin-bottom: 0 !important;
+  }
+  .choose_item_title i {
+    font-size: 40px;
+  }
+  .choose_item_title h3 {
+    margin-top: 12px;
+    margin-left: 16px;
+    font-size: 21px;
+    color: #8e8e8e;
+  }
+  .choose_item_text p {
+    padding: 20px 0;
+  }
+  .choose_border {
+    width: 100%;
+  }
+  /* WhyChoose-End */
+  /* Contact-Us Start */
+  .contact_custom_form {
+    padding-left: 20px;
+  }
+  /* Contact-Us End */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* Header-Start */
+  .menu {
+    margin-top: 10px;
+  }
+  .menu ul li a {
+    padding: 6px 0 !important;
+  }
+  /* Search-Start */
+  .search_menu[data-bs-popper] {
+    left: -10px;
+  }
+  .btn_padding {
+    padding: 0;
+  }
+  /* Search-End */
+  /* Header-End */
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 23.2%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 70%;
+    height: 85%;
+  }
+  .c_c_custom h1 {
+    font-size: 30px;
+  }
+  .c_c_custom p {
+    margin: 15px 0;
+  }
+  /* Caption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+  }
+  .default-btn button {
+    width: 170px;
+    height: 40px;
+    font-size: 15px;
+  }
+  /* Button End */
+  /* Prev-NExt Start */
+  .control_next_c {
+    left: 29.2%;
+  }
+  /* Prev-NExt End */
+  /* Slider-Section End */
+  /* Service-Section Start */
+  /* Service-item Start */
+  .service_title h1 {
+    margin: 30px 0 40px;
+  }
+  .service_title p {
+    margin-bottom: 50px;
+    line-height: 26px;
+  }
+  .service_item {
+    margin: 0px 0 50px;
+  }
+  /* Service-item End */
+  /* Service-Section End */
+
+  /* About-Section Start */
+  .about_section {
+    margin-bottom: 50px;
+  }
+  .about_content {
+    text-align: center;
+  }
+  .service_title h1 {
+    margin: 40px 0 35px;
+  }
+  .service_title p {
+    margin-bottom: 40px;
+  }
+  /* About-Section End */
+
+  /* Recent-Work Start */
+  .recent-work {
+    padding-bottom: 50px;
+  }
+  .custom_navpill {
+    margin-top: 0 !important;
+  }
+  /* Recent-Work End */
+
+  /* whychoose Start */
+  .choose_title,
+  .service_title h1 {
+    margin: 30px 0 30px;
+  }
+  .choose_item_title i {
+    font-size: 40px;
+  }
+  .choose_item_title h3 {
+    margin-top: 11px;
+    margin-left: 15px;
+    font-size: 21px;
+  }
+  .choose_item_text p {
+    padding: 35px 0;
+  }
+  .choose_border {
+    width: 245px;
+  }
+  /* whychoose End */
+  /* Workwith-us Start */
+  .work_title h1 {
+    margin-bottom: 60px !important;
+  }
+  .worker {
+    padding: 0 0 25px !important;
+  }
+
+  .worker_margin:nth-child(2n + 2) {
+    margin-bottom: 50px !important;
+  }
+  .social_media ul {
+    margin-top: 18%;
+  }
+  /* Workwith-us Start */
+  /* Best-Pricing-section Start */
+  .pricing_item {
+    margin-bottom: 30px;
+  }
+  .pricing_margin {
+    margin-bottom: 0 !important;
+  }
+  .service_btn button {
+    width: 185px;
+  }
+  .pricing_item h3 span {
+    font-size: 30px;
+  }
+  /* Best-Pricing-section End */
+  /* Fotter-Secton Start */
+  .footer_social ul {
+    margin-bottom: 60px;
+  }
+  .footer-right ul li a {
+    padding: 0px 23px;
+  }
+  .footer-right ul li a:last-child {
+    padding-right: 17.5px;
+  }
+  .footer_left p {
+    position: relative;
+    left: 20px;
+  }
+  /* Fotter-Secton End */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* Header-Start */
+  .menu {
+    margin-top: 10px;
+  }
+  .menu ul li a {
+    padding: 6px 0 !important;
+  }
+  /* Search-Start */
+  .search_menu[data-bs-popper] {
+    left: -10px;
+  }
+  .btn_padding {
+    padding: 0;
+  }
+  /* Search-End */
+  /* Header-End */
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 21.2%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 70%;
+    height: 90%;
+  }
+  .c_c_custom h1 {
+    font-size: 40px;
+  }
+  .c_c_custom p {
+    margin: 15px 0;
+  }
+  /* Caption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+    margin-top: 25px;
+  }
+  /* Button End */
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 26.2%;
+  }
+  /* Prev-Next End */
+  /* Slider-Section End */
+  /* Service-Section Start */
+  /* Service-item start */
+  .service_title p {
+    margin-bottom: 70px;
+  }
+  .service_item {
+    margin: 0 0 60px;
+  }
+  /* Service-item end */
+  /* Service-Section End */
+
+  /* About-Section Start */
+  .about_section {
+    margin-bottom: 50px;
+  }
+  .about_img {
+    text-align: center;
+  }
+  .about_content,
+  .service_title p {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .service_title p {
+    margin-bottom: 50px;
+  }
+  .service_btn {
+    text-align: right;
+  }
+  /* About-Section End */
+
+  /* Recent-Work Start */
+  .recent-work {
+    padding-bottom: 50px;
+  }
+  .custom_navpill {
+    margin-top: 0 !important;
+  }
+  /* Recent-Work End */
+
+  /* whychoose Start */
+  .choose_border {
+    width: 297px;
+  }
+  /* whychoose End */
+
+  /* Workwith-US Start */
+  .work_title h1 {
+    margin-bottom: 60px !important;
+  }
+  .worker {
+    padding: 0 0 20px !important;
+  }
+
+  .worker_margin:nth-child(2n + 2) {
+    margin-bottom: 50px !important;
+  }
+
+  /* Workwith-US End */
+  /* Best-Pricing Start */
+  .pricing_item {
+    margin-bottom: 50px;
+  }
+  .pricing_margin {
+    margin-bottom: 0 !important;
+  }
+  .pricing_item h3 span {
+    font-size: 30px !important;
+  }
+  /* Best-Pricing End */
+  /* Footer-Section Start */
+  .footer-md-margin {
+    margin-bottom: 25px;
+  }
+  .footer-md-margin ul {
+    padding-left: 0 !important;
+  }
+  .footer-right ul li a {
+    padding: 0px 50px;
+  }
+  .footer_left p {
+    position: relative;
+    left: 25px;
+  }
+  /* Footer-Section End */
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 20%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 45%;
+    height: 90%;
+  }
+  .c_c_custom h1 {
+    font-size: 40px;
+  }
+  .c_c_custom p {
+    margin: 20px 0;
+  }
+  /* Caption End */
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 24%;
+  }
+  /* Prev-Next End */
+  /* Slider-Section End */
+
+  /* whychoose Start */
+  .choose_border {
+    width: 300px;
+  }
+  /* whychoose End */
+  /* Best-Pricing Start */
+  .pricing_list {
+    padding: 40px 20px;
+  }
+  .pricing_item p {
+    top: -54px;
+  }
+  .pricing_item h3 span {
+    font-size: 30px;
+  }
+  .pricing_item h3 {
+    font-size: 18px;
+  }
+  .pricing_item ul li {
+    padding: 10px 0;
+    font-size: 15px;
+  }
+  .pricing_btn .service_btn button {
+    width: 175px;
+  }
+  /* Best-Pricing End */
+  /* Footer-Secton Start */
+  .footer-right ul li a {
+    padding: 0px 15px;
+  }
+  /* Footer-Secton End */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 19%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 44%;
+    height: 92%;
+  }
+  .c_c_custom h1 {
+    font-size: 50px;
+  }
+  .c_c_custom p {
+    margin: 25px 0;
+  }
+  /* Caption End */
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 22%;
+  }
+  /* Prev-Next End */
+  /* Slider-Section End */
+}
+
+/* Extre Extra large devices (Extra Extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 18%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom h1 {
+    font-size: 56px;
+  }
+  .c_c_custom {
+    height: 94%;
+  }
+  /* Caption End */
+  /* Button start */
+  .c_c_custom h1 {
+    font-size: 56px;
+    margin-bottom: 50px;
+  }
+  .c_c_custom p {
+    margin: 0;
+  }
+  .default-btn button {
+    margin-top: 50px;
+  }
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 20.3%;
+  }
+  /* Prev-Next End */
+  /* Button End */
+  /* Slider-Section End */
+}
